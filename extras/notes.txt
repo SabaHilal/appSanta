@@ -1,0 +1,47 @@
+# Notes Book Santa
+
+## Start
+
+### Class 76
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards>expo init appsanta
+
+✅ Your project is ready!
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>npm install
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>expo start
+
+
+
+### Class 77
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>npm install
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>npm install firebase
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>npm install lottie-react-native
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>expo start
+
+### Class 78
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>expo start
+
+### Class 79
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>npm install react-navigation
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>npm install react-native-elements
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>npm install react-native-gesture-handler
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>npm install react-native-reanimated
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>npm install react-native-safe-area-context
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>npm install react-native-screens
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>npm install react-navigation-tabs
+
+#### C:\Users\saba2\Desktop\whitehat\p60onwards\appsanta>expo start
